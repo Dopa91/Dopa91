@@ -6,7 +6,7 @@
 - 🤝 I'm open to collaborating
 - 📫 You can reach me at code.dopatka@gmail.com
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: "I've spent more hours playing video games than I can count 🎮"
 
 
 <!---
