@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Dopa91
-- 👀 I’m interested in Dart / Flutter 
-- 🌱 I’m currently learning Dart / Flutter :D
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👋 Hi, I’m Andreas Dopatka  🇩🇪 🇵🇱
+
+- 👀 I’m interested in Dart & Flutter 
+- 🌱 I’m currently learning Dart & Flutter 
+
+- 🤝 I'm open to collaborating
+- 📫 You can reach me at code.dopatka@gmail.com
+
 - ⚡ Fun fact: ...
+
 
 <!---
 Dopa91/Dopa91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
